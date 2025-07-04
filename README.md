@@ -1,11 +1,11 @@
 ## Kem Cho! I'm Rahil Patel 👋
-~ Aspiring **AI/ML Engineer** passionate about creating impactful **full-stack applications**
+Aspiring **AI/ML Engineer** passionate about creating impactful **full-stack applications**!
 
 ### 👨‍💻 About Me
 - 🎓 Computer Engineering undergrad
-- ⚡ Fascinated about Tech, Video Games, Music, Movies, Humans, Life and Everything in Between
+- 💿 Fascinated about Tech, Video Games, Music, Movies, Humans, Life and Everything in Between
 - 🤖 Interested in **Deep Learning**, **NLP**, and **AGI**
-- 🔍 Currently busy exploring **LangChain**, and **finetuning LLMs**
+- 🔍 Currently exploring **LangChain**, and **finetuning LLMs**
   
 ### 🚀 Technologies
 
