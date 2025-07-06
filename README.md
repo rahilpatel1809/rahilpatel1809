@@ -1,4 +1,4 @@
-## Kem Cho! I'm Rahil Patel 👋
+## Kem Cho! I'm Rahil 👋
 Aspiring **AI/ML Engineer** passionate about creating impactful **full-stack applications**!
 
 ### 👨‍💻 About Me
