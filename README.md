@@ -4,7 +4,7 @@ Aspiring **AI/ML Engineer** passionate about creating impactful **full-stack app
 ### 👨‍💻 About Me
 - 🎓 Computer Engineering undergrad
 - 💿 Fascinated about Tech, Video Games, Music, Movies, Humans, Life and Everything in Between
-- 🤖 Interested in **Deep Learning**, **NLP**, and **AGI**
+- 🤖 Always diving deeper into **Deep Learning**, **NLP**, and **AGI**
 - 🔍 Currently exploring **LangChain**, and **finetuning LLMs**
   
 ### 🚀 Technologies
