@@ -5,7 +5,7 @@ Aspiring AI/ML Engineer passionate about creating impactful full-stack applicati
 - 🎓 Computer Engineering undergrad
 - 💿 Fascinated about Tech, Video Games, Music, Movies, Humans, Life and Everything in Between
 - 🤖 Always diving deeper into Deep Learning, NLP, and AGI
-- 🔍 Currently exploring LangChain and finetuning LLMs
+- 🔍 Currently exploring RAG and finetuning LLMs
   
 ### 🚀 Technologies
 
