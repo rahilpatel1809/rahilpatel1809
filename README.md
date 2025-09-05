@@ -1,5 +1,5 @@
 ## Kem Cho! I'm Rahil 👋
-Aspiring AI/ML Engineer passionate about creating impactful full-stack applications!
+Aspiring Full-Stack x AI/ML engineer
 
 ### 👨‍💻 About Me
 - 🎓 Computer Engineering undergrad
